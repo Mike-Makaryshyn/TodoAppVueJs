@@ -1,5 +1,7 @@
 # vue-crash-course
 
+TEMPLATE FOR PRACTICING VUE.JS 
+
 ## Project setup
 ```
 npm install
