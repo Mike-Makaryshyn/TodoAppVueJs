@@ -1,6 +1,6 @@
 # vue-crash-course
 
-TEMPLATE FOR PRACTICING VUE.JS 
+practice vue 2
 
 ## Project setup
 ```
